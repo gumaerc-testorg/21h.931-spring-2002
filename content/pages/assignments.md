@@ -41,7 +41,7 @@ Fraser, Nancy, and Linda Gordon. "A Genealogy of Dependency: Tracing a Keyword o
 
 Thinking and writing assignment: What pattern can you see in the words Williams has chosen to analyze? What order would you recommend that they be read in if not alphabetical? Can you think of meanings and usages that he has not addressed? Is there anything historical about your experience of these words in the early 21st century?
 
-Go to the web site of the Oxford English Dictionary ({{% resource_link "8761b12f-54b1-48c2-a180-dd6b589618fd" "http://dictionary.oed.com/entrance.dtl" %}}) and investigate one or more words of your own choosing. Can you think of words that do not appear in the OED because they are too modern? Can you think of words whose meanings have changed in your lifetime? Can you think of words that have had particular currency this fall with all the international developments? Have any of their meanings changed? Alternatively, are there words from a particular historical period you are interested in that you would want to comment on?
+Go to the web site of the Oxford English Dictionary ([http://dictionary.oed.com/entrance.dtl](http://dictionary.oed.com/entrance.dtl)) and investigate one or more words of your own choosing. Can you think of words that do not appear in the OED because they are too modern? Can you think of words whose meanings have changed in your lifetime? Can you think of words that have had particular currency this fall with all the international developments? Have any of their meanings changed? Alternatively, are there words from a particular historical period you are interested in that you would want to comment on?
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
